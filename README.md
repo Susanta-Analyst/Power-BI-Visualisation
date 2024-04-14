@@ -1,3 +1,5 @@
+![image](https://github.com/Susanta-Analyst/Power-BI-Visualisation/assets/165849794/1360d79f-d4ad-4575-81a2-cd2e22943d23)
+
 This project has been done by dowloading the raw file "Power BI - Final Project" ( Source: Alex - The Analyst Github ).
 
 The project involves some bit of Data Cleaning and subsequent visualisations from this data set.
